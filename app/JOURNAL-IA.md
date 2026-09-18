@@ -1,4 +1,4 @@
-# Journal IA — Mini-TP 3 — Rambeloson Raitra Fiorenana
+# Journal IA - TP 3 — Andrianantenaina Dimbinekena
 
 - Diagnostic soumis : NullPointerException sur `findViewById(R.id.btnPartage)` à la ligne 29.
 - Mon verdict en 3 lignes :
